@@ -4,34 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1a631a-6b35-461e-8495-d3468c0e83a4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DZ_12_2_dop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_arrs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/arrs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/tests/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/tests/test_arrs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/utils/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest_proj/utils/arrs.py" beforeDir="false" />
-    </list>
+    <list default="true" id="0a1a631a-6b35-461e-8495-d3468c0e83a4" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/pytest_proj" value="test/issue2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
